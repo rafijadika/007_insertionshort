@@ -43,7 +43,7 @@ void insertionSort() {
             cout << arr[k] << " ";
 
         }
-        cout << "pass " << n - 1 << endl;
+        cout << "pass " << i - 1 << endl;
         cout << endl;
     }while (i <= i);
 
